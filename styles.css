@@ -182,6 +182,7 @@ align-items: center;
 .intro p {
   color: whitesmoke;
   width: 85%;
+  text-align: justify;
 }
 .intro button {
   background-image: linear-gradient(
@@ -454,7 +455,7 @@ border-radius: 0.5rem;
 transition: 0.2s;
 }
 
-/* .........................CUSTOMERS............................ */
+/* .........................CUSTOMER-SECTION............................ */
 
 .customer-section {
   margin: 10rem 0;
@@ -518,6 +519,7 @@ border-radius: 50%;
 
 
 /* ..........................footer.......................... */
+
 
 footer {
   display: flex;
@@ -589,3 +591,4 @@ footer {
   margin: 0 3rem;
 }
 }
+/* ..........................footer-ended.......................... */
